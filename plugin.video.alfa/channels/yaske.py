@@ -11,7 +11,7 @@ from core import tmdb
 from core.item import Item
 from platformcode import config, logger
 
-HOST = 'pitunti'
+HOST = 'http://yaske.ro'
 parameters = channeltools.get_channel_parameters('yaske')
 fanart_host = parameters['fanart']
 thumbnail_host = parameters['thumbnail']
