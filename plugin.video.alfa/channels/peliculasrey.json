@@ -1,0 +1,13 @@
+{
+  "id": "peliculasrey",
+  "name": "peliculasrey",
+  "active": true,
+  "adult": false,
+  "language": ["cast", "lat"],
+  "thumbnail": "peliculasrey.png",
+  "banner": "peliculasrey.png",
+  "categories": [
+    "direct",
+    "movie"
+  ]
+}
