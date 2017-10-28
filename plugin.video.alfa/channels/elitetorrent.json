@@ -1,0 +1,16 @@
+{
+  "id": "elitetorrent",
+  "name": "Elite Torrent",
+  "active": true,
+  "adult": false,
+  "language": ["cast"],
+  "thumbnail": "elitetorrent.png",
+  "banner": "elitetorrent.png",
+  "categories": [
+    "torrent",
+    "movie",
+    "tvshow",
+    "documentary",
+    "vos"
+  ]
+}

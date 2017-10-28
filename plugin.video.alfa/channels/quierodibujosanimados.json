@@ -1,0 +1,13 @@
+{
+  "id": "quierodibujosanimados",
+  "name": "Quiero Dibujos Animados",
+  "active": true,
+  "adult": false,
+  "language": ["cast"],
+  "thumbnail": "quierodibujosanimados.png",
+  "banner": "quierodibujosanimados.png",
+  "fanart": "quierodibujosanimados.jpg",
+  "categories": [
+    "tvshow"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "peliculasaudiolatino",
+  "name": "Peliculasaudiolatino",
+  "active": true,
+  "adult": false,
+  "language": ["lat"],
+  "thumbnail": "peliculasaudiolatino.png",
+  "banner": "peliculasaudiolatino.png",
+  "categories": [
+    "movie"
+  ],
+  "settings": [
+    {
+      "id": "include_in_global_search",
+      "type": "bool",
+      "label": "Incluir en busqueda global",
+      "default": false,
+      "enabled": true,
+      "visible": true
+    }
+  ]
+}
